@@ -8,6 +8,9 @@ import org.springframework.test.context.junit4.SpringRunner;
 import org.springframework.test.web.servlet.MockMvc;
 
 import static junit.framework.TestCase.fail;
+import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.get;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.content;
+import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 @RunWith(SpringRunner.class)
 @WebMvcTest
@@ -20,20 +23,23 @@ public class HelloControllerTests {
 
     @Test
     public void shouldReturnHelloFromProperties() throws Exception {
-        // TODO 6 zaktualizuj test
-        fail();
+        mockMvc.perform(get("/hello"))
+                .andExpect(status().isOk())
+                .andExpect(content().string("hello"));
     }
 
     @Test
     public void shouldReturnMsgFromProperties() throws Exception {
-        // TODO 8 zaktualizuj test
-        fail();
+        mockMvc.perform(get("/msg"))
+                .andExpect(status().isOk())
+                .andExpect(content().string("msg"));
     }
 
     @Test
     public void shouldReturnFooFromYAML() throws Exception {
-        // TODO 10 zaktualizuj test
-        fail();
+            mockMvc.perform(get("/foo"))
+                    .andExpect(status().isOk())
+                    .andExpect(content().string("foo"));
     }
 
 }

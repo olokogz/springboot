@@ -1,18 +1,35 @@
 package workshop.sb.helloworld.controller;
 
+import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 import org.springframework.web.bind.annotation.RestController;
 
-@RestController
+@Controller
+@ResponseBody
 public class HelloController {
 
     @GetMapping("/hello")
-    public String greetName(@RequestParam(value = "name", required = false) String name) {
-        String greeting = "Hello, ";
-        String defaultName = "World!";
-        return name != null ? greeting + name : greeting + defaultName;
+    public Response greetName(@RequestParam(value = "name", required = false) String name) {
+
+        String greeting = "Hello";
+        String defaultName = "World";
+        String msg = name != null ? greeting+name : greeting + defaultName;
+        return new Response(msg);
+
+
     }
+}
+
+class Response{
+    private static final String TITLE = "Moja wiadomosc";
+    private String msg;
+
+    public Response(String msg) {this.msg = msg;}
+
+    public String getTitle() {return TITLE;}
+    public String getMsg(){return msg;}
 }
 
 

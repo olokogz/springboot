@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26cbc51b-a825-425e-b093-80cd580f326d" name="Default Changelist" comment="" />
+    <list default="true" id="26cbc51b-a825-425e-b093-80cd580f326d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/_1_helloworld-final/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/controller/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/controller/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_1_helloworld-final/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_3_constructor-setter-field-start/src/test/java/workshop/sb/config/GreetControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/_3_constructor-setter-field-start/src/test/java/workshop/sb/config/GreetControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/GreetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/GreetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_4_using-primary-start/src/test/java/workshop/sb/config/controller/GreetControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/_4_using-primary-start/src/test/java/workshop/sb/config/controller/GreetControllerTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/java/workshop/sb/config/HelloController.java" beforeDir="false" afterPath="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/java/workshop/sb/config/HelloController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_6_prop-and-yml-start/src/test/java/workshop/sb/config/HelloControllerTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/_6_prop-and-yml-start/src/test/java/workshop/sb/config/HelloControllerTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_7_configuration-properties-start/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_7_configuration-properties-start/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_7_configuration-properties-start/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/_7_configuration-properties-start/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/_5_using-qualifier-final/target/" />
     <ignored path="$PROJECT_DIR$/_4_using-primary-final/target/" />
     <ignored path="$PROJECT_DIR$/_9_configuration-start/target/" />
@@ -28,55 +41,58 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/CalculatorApplication.java">
+        <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/test/java/workshop/sb/config/HelloControllerTests.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+            <state relative-caret-position="374">
+              <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/main/java/workshop/sb/config/AnnotationCongifurationPropertiesApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="340">
+              <caret line="21" column="91" lean-forward="true" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="91" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/main/java/workshop/sb/config/controller/MainController.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="102">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#537#538#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#603#604#0" expanded="true" />
+                <element signature="e#630#631#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/CalculatorApplicationTests.java">
+        <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/test/java/workshop/sb/config/controller/MainControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="619">
-              <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+            <state relative-caret-position="85">
+              <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+        <entry file="file://$PROJECT_DIR$/_7_configuration-properties-final/src/test/java/workshop/sb/config/MainControllerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="17" selection-start-line="17" selection-end-line="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/test/java/workshop/sb/helloworld/HelloWorldApplicationTests.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="92">
-              <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/controller/CalculatorController.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="40" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-                <element signature="e#499#500#0" expanded="true" />
-                <element signature="e#637#638#0" expanded="true" />
-                <element signature="e#663#664#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="100">
+              <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
             </state>
           </provider>
         </entry>
@@ -86,10 +102,14 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="spring-beans.schema" />
         <option value="Class" />
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -97,6 +117,25 @@
         <option value="$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/controller/CalculatorControllerTest.java" />
         <option value="$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/controller/CalculatorController.java" />
         <option value="$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/CalculatorApplicationTests.java" />
+        <option value="$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/controller/HelloController.java" />
+        <option value="$PROJECT_DIR$/_3_constructor-setter-field-start/src/main/java/workshop/sb/config/workshop/sb/config/controller/GreetController.java" />
+        <option value="$PROJECT_DIR$/_3_constructor-setter-field-start/src/main/java/workshop/sb/config/workshop/sb/config/service/GreetService.java" />
+        <option value="$PROJECT_DIR$/_3_constructor-setter-field-start/src/test/java/workshop/sb/config/GreetControllerTest.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/GreetService.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/GreetController.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceSecondImplementation.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceFirstImplementation.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-final/src/test/java/workshop/sb/config/controller/GreetControllerTest.java" />
+        <option value="$PROJECT_DIR$/_4_using-primary-start/src/test/java/workshop/sb/config/controller/GreetControllerTest.java" />
+        <option value="$PROJECT_DIR$/_1_helloworld-final/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/_1_helloworld-final/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.yaml" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-start/src/main/java/workshop/sb/config/HelloController.java" />
+        <option value="$PROJECT_DIR$/_6_prop-and-yml-start/src/test/java/workshop/sb/config/HelloControllerTests.java" />
+        <option value="$PROJECT_DIR$/_7_configuration-properties-start/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/_7_configuration-properties-start/src/main/java/workshop/sb/config/controller/MainController.java" />
+        <option value="$PROJECT_DIR$/_7_configuration-properties-start/src/test/java/workshop/sb/config/controller/MainControllerTest.java" />
       </list>
     </option>
   </component>
@@ -108,105 +147,114 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1360" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="252" />
+    <option name="y" value="8" />
+    <option name="width" value="974" />
     <option name="height" value="929" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-final" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-final" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_7_configuration-properties-final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_7_configuration-properties-final" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
+              <item name="_7_configuration-properties-start" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spring-boot-exercises" type="b2602c69:ProjectViewProjectNode" />
-              <item name="_2_calculator-start" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="calculator" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="ExpandSpringBootJavaOptionsPanel" value="true" />
     <property name="RequestMappingsPanelOrder0" value="0" />
     <property name="RequestMappingsPanelOrder1" value="1" />
     <property name="RequestMappingsPanelWidth0" value="75" />
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544539438700" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1544624051080" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -214,6 +262,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="workshop.sb.config.controller" />
       <recent name="workshop.sb.calculator.controller" />
     </key>
     <key name="CreateTestDialog.Recents.Supers">
@@ -237,35 +286,73 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CalculatorApplicationTests.shouldSubstract">
-    <configuration name="CalculatorApplicationTests.shouldSubstract" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calculator-start" />
+  <component name="RunManager" selected="JUnit.MainControllerTest">
+    <configuration name="HelloControllerTests" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="prop-and-yml-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="workshop.sb.calculator.*" />
+          <option name="PATTERN" value="workshop.sb.config.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="workshop.sb.calculator" />
-      <option name="MAIN_CLASS_NAME" value="workshop.sb.calculator.CalculatorApplicationTests" />
-      <option name="METHOD_NAME" value="shouldSubstract" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="workshop.sb.config" />
+      <option name="MAIN_CLASS_NAME" value="workshop.sb.config.HelloControllerTests" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CalculatorApplicationTests.shouldSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="calculator-start" />
+    <configuration name="MainControllerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="configuration-properties-start" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="workshop.sb.calculator.*" />
+          <option name="PATTERN" value="workshop.sb.config.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="workshop.sb.calculator" />
-      <option name="MAIN_CLASS_NAME" value="workshop.sb.calculator.CalculatorApplicationTests" />
-      <option name="METHOD_NAME" value="shouldSum" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="workshop.sb.config.controller" />
+      <option name="MAIN_CLASS_NAME" value="workshop.sb.config.controller.MainControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="configuration-properties-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workshop.sb.config.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workshop.sb.config.controller" />
+      <option name="MAIN_CLASS_NAME" value="workshop.sb.config.controller.MainControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest (3)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="configuration-properties-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workshop.sb.config.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workshop.sb.config.controller" />
+      <option name="MAIN_CLASS_NAME" value="workshop.sb.config.controller.MainControllerTest" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MainControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="configuration-properties-start" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="workshop.sb.config.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="workshop.sb.config.controller" />
+      <option name="MAIN_CLASS_NAME" value="workshop.sb.config.controller.MainControllerTest" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -301,19 +388,6 @@
     <configuration name="CSFApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="constructor-setter-field-final" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="workshop.sb.config.CSFApplication" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CalculatorApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="calculator-start" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="workshop.sb.calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="workshop.sb.calculator.CalculatorApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -362,9 +436,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.CalculatorApplicationTests.shouldSubstract" />
-        <item itemvalue="JUnit.CalculatorApplicationTests.shouldSum" />
-        <item itemvalue="Spring Boot.CalculatorApplication (1)" />
+        <item itemvalue="JUnit.MainControllerTest" />
+        <item itemvalue="JUnit.MainControllerTest (3)" />
+        <item itemvalue="JUnit.MainControllerTest (2)" />
+        <item itemvalue="JUnit.MainControllerTest (1)" />
+        <item itemvalue="JUnit.HelloControllerTests" />
       </list>
     </recent_temporary>
   </component>
@@ -379,100 +455,126 @@
       <option name="presentableId" value="Default" />
       <updated>1544531555538</updated>
       <workItem from="1544531562083" duration="6722000" />
+      <workItem from="1544602065015" duration="12950000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 33m 16s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="GreetControllerTest_shouldReturnHelloWorld - 2018.12.12 at 10h 25m 21s.xml">
+      <configuration name="GreetControllerTest.shouldReturnHelloWorld" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 34m 56s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="GreetControllerTest_shouldReturnGreetMsg - 2018.12.12 at 11h 57m 23s.xml">
+      <configuration name="GreetControllerTest.shouldReturnGreetMsg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 35m 58s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="GreetControllerTest_shouldReturnGreetMsg - 2018.12.12 at 12h 24m 55s.xml">
+      <configuration name="GreetControllerTest.shouldReturnGreetMsg" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 36m 56s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="HelloControllerTests_shouldReturnHelloFromProperties - 2018.12.12 at 14h 43m 42s.xml">
+      <configuration name="HelloControllerTests.shouldReturnHelloFromProperties" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 38m 48s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="HelloControllerTests_shouldReturnHelloFromProperties - 2018.12.12 at 14h 45m 26s.xml">
+      <configuration name="HelloControllerTests.shouldReturnHelloFromProperties" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 39m 17s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="HelloControllerTests - 2018.12.12 at 14h 47m 03s.xml">
+      <configuration name="HelloControllerTests" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="CalculatorApplicationTests_shouldSum - 2018.12.11 at 15h 40m 44s.xml">
-      <configuration name="CalculatorApplicationTests.shouldSum" configurationId="JUnit" />
+    <history-entry file="HelloControllerTests - 2018.12.12 at 14h 47m 41s.xml">
+      <configuration name="HelloControllerTests" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainControllerTest - 2018.12.12 at 15h 04m 31s.xml">
+      <configuration name="MainControllerTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainControllerTest_(1) - 2018.12.12 at 15h 05m 38s.xml">
+      <configuration name="MainControllerTest (1)" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MainControllerTest_(2) - 2018.12.12 at 15h 10m 16s.xml">
+      <configuration name="MainControllerTest (2)" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6722000" />
+    <option name="totallyTimeSpent" value="19672000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="Capture Tool" />
-      <window_info id="UI Designer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Web" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19083156" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15405117" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run Dashboard" weight="0.5048754" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Java Enterprise" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.283857" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Database" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Bean Validation" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32914573" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.3517588" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15727003" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3997833" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Version Control" order="14" />
+      <window_info anchor="bottom" id="Run Dashboard" order="15" weight="0.26435536" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Database" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+      <window_info anchor="right" id="Bean Validation" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/HelloWorldApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="8" column="27" selection-start-line="8" selection-start-column="27" selection-end-line="8" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/controller/CalculatorControllerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="4" column="38" selection-start-line="4" selection-start-column="38" selection-end-line="4" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/controller/HelloController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="10" column="84" lean-forward="true" selection-start-line="10" selection-start-column="84" selection-end-line="10" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/controller/CalculatorControllerTest.java" />
     <entry file="file://$PROJECT_DIR$/_1_helloworld-final/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="578">
@@ -480,24 +582,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/controller/CalculatorController.java">
+    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/CalculatorApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#473#474#0" expanded="true" />
-            <element signature="e#499#500#0" expanded="true" />
-            <element signature="e#637#638#0" expanded="true" />
-            <element signature="e#663#664#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/test/java/workshop/sb/helloworld/HelloWorldApplicationTests.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="92">
-          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        <state relative-caret-position="272">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
         </state>
       </provider>
     </entry>
@@ -508,17 +596,318 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/CalculatorApplication.java">
+    <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/main/java/workshop/sb/calculator/controller/CalculatorController.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="136">
+          <caret line="11" column="17" selection-start-line="11" selection-start-column="17" selection-end-line="11" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_2_calculator-start/src/test/java/workshop/sb/calculator/CalculatorApplicationTests.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="619">
+        <state relative-caret-position="646">
           <caret line="49" column="63" selection-start-line="49" selection-start-column="63" selection-end-line="49" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/controller/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="11" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-final/src/main/java/workshop/sb/config/service/GreetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-final/src/main/java/workshop/sb/config/controller/GreetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-start/src/main/java/workshop/sb/config/CSFApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="76" selection-start-line="17" selection-start-column="76" selection-end-line="17" selection-end-column="76" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-start/src/main/java/workshop/sb/config/workshop/sb/config/service/GreetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#149#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-final/src/main/java/workshop/sb/config/CSFApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-start/src/main/java/workshop/sb/config/workshop/sb/config/controller/GreetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-final/src/test/java/workshop/sb/config/controller/GreetControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="16" column="21" selection-start-line="16" selection-start-column="21" selection-end-line="16" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_3_constructor-setter-field-start/src/test/java/workshop/sb/config/GreetControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="37" column="60" selection-start-line="37" selection-start-column="60" selection-end-line="37" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-final/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceSecondImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/AnnotationPrimaryApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceSecondImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-final/src/main/java/workshop/sb/config/controller/service/GreetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/GreetService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceFirstImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-final/src/main/java/workshop/sb/config/controller/service/impl/GreetServiceFirstImplementation.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/test/java/workshop/sb/config/controller/GreetControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="27" column="50" selection-start-line="27" selection-start-column="50" selection-end-line="27" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-start/src/main/java/workshop/sb/config/controller/GreetController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="10" lean-forward="true" selection-start-line="9" selection-start-column="3" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-final/src/test/java/workshop/sb/config/controller/GreetControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-final/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-final/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-final/src/main/java/workshop/sb/config/PropsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-final/src/main/java/workshop/sb/config/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/main/java/workshop/sb/helloworld/HelloWorldApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="11" lean-forward="true" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_4_using-primary-final/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.yaml.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.yaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-test-autoconfigure/2.0.1.RELEASE/spring-boot-test-autoconfigure-2.0.1.RELEASE.jar!/org/springframework/boot/test/autoconfigure/web/servlet/MockMvcAutoConfiguration.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="67" column="19" selection-start-line="67" selection-start-column="19" selection-end-line="67" selection-end-column="19" />
+          <folding>
+            <element signature="e#2908#2909#0" expanded="true" />
+            <element signature="e#2946#2947#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_1_helloworld-final/src/test/java/workshop/sb/helloworld/HelloWorldApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/main/java/workshop/sb/config/HelloController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="12" selection-start-line="21" selection-start-column="12" selection-end-line="21" selection-end-column="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#800#801#0" expanded="true" />
+            <element signature="e#831#832#0" expanded="true" />
+            <element signature="e#876#877#0" expanded="true" />
+            <element signature="e#904#905#0" expanded="true" />
+            <element signature="e#933#934#0" expanded="true" />
+            <element signature="e#962#963#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/main/java/workshop/sb/config/PropsApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/main/java/workshop/sb/config/controller/MainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/main/java/workshop/sb/config/AnnotationCongifurationPropertiesApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="21" column="91" lean-forward="true" selection-start-line="21" selection-start-column="91" selection-end-line="21" selection-end-column="91" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_6_prop-and-yml-start/src/test/java/workshop/sb/config/HelloControllerTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="34" column="48" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_7_configuration-properties-final/src/test/java/workshop/sb/config/MainControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="21" column="42" lean-forward="true" selection-start-line="21" selection-start-column="42" selection-end-line="21" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_7_configuration-properties-start/src/test/java/workshop/sb/config/controller/MainControllerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="12" column="53" selection-start-line="12" selection-start-column="53" selection-end-line="12" selection-end-column="53" />
         </state>
       </provider>
     </entry>
